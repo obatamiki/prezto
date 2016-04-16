@@ -30,8 +30,17 @@ zstyle ':prezto:load' pmodule \
   'history' \
   'directory' \
   'spectrum' \
+  'gnu-utility' \
   'utility' \
   'completion' \
+  'git' \
+  'history-substring-search' \
+  'syntax-highlighting' \
+  'tmux' \
+  'osx' \
+  'archive' \
+  'fasd' \
+  'homebrew' \
   'prompt'
 
 #
